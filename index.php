@@ -14,7 +14,7 @@
 	<body>
 		<div id="container">
 			<header>
-				<h1>SHOUT IT! Shoutbox</h1>
+				<h1>SHOUT IT! Dylan's Shoutbox</h1>
 			</header>
 			<div id="shouts">
 				<ul>
